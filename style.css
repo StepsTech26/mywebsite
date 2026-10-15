@@ -1,0 +1,25 @@
+/* ===== Page Content (about, contact වගේ පිටුවලට) ===== */
+.page-content {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.page-content h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.page-content a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.page-content a:hover {
+    text-decoration: underline;
+}
